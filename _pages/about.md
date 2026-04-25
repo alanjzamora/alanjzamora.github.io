@@ -8,3 +8,30 @@ redirect_from:
 ---
 
 Hello, I am Alan Zamora a senior computer science student at the University of Houston. My interests in the realm of computer science include, cloud computing, embedded systems, and cybersecurity. I occasionally on the side write a column for the school newspaper The Cougar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
