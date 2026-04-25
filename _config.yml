@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/pfp.jpg"
+  avatar           : "images/pfp.jpg"
   name             : "Alan Zamora"
   pronouns         : # example: "she/her"  
   bio              : "Senior CS student at University of Houston"
@@ -34,7 +34,7 @@ author:
   resume           : "files/Resume Document.pdf"
 
   # Academic websites
-  academia         : "cs.uh.edu"
+  academia         : 
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : 
   inspire-hep      : # URL
@@ -156,9 +156,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-55L4R5DJVB"
 
 
 # Reading Files
